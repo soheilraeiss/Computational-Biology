@@ -1,9 +1,10 @@
 # Computational-Biology
-When Math Meets Life: Unraveling the Secrets of Biology Through Computation
 
-This interdisciplinary research paper by **Seyyed Soheil Raeiss Sadati** presents a comprehensive exploration of the **computational and mathematical approaches** that are revolutionizing biological research and addressing complex challenges that traditional biological methods cannot solve independently.
+# When Math Meets Life: Unraveling the Secrets of Biology Through Computation
 
-# Core Focus and Contribution
+This interdisciplinary research paper presents a comprehensive exploration of the **computational and mathematical approaches** that are revolutionizing biological research and addressing complex challenges that traditional biological methods cannot solve independently.
+
+## **Core Focus and Contribution**
 
 The paper demonstrates how **biology, mathematics, and computer science** converge to tackle fundamental biological problems, with particular emphasis on **machine learning algorithms** and **computational modeling techniques**. The research addresses the critical gap where biological complexity exceeds the analytical capabilities of conventional biological approaches, necessitating sophisticated mathematical and computational interventions.
 
